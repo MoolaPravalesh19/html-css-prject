@@ -9,3 +9,9 @@ If the Username/Email ID  and password  doesn’t exists in the database then we
 If we click on the button “About Us” icon in the home page then we will be redirected to the about us page.
 
 If we click on the button “Know More” icon in the home page then we will be redirected to the Know more page.
+
+Name of our team members are:-
+Khushi Soumya.
+Moola Pravalesh.
+Prerna Shree.
+Ayush Kumar.

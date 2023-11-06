@@ -13,6 +13,9 @@ If we click on the button “Know More” icon in the home page then we will be 
 Name of our team members are:-
 
 Khushi Soumya.
+
 Moola Pravalesh.
+
 Prerna Shree.
+
 Ayush Kumar.

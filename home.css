@@ -1,0 +1,46 @@
+body {
+    background-image: url(knowmore.jpg);
+    background-size: cover;
+}
+.block ul li {
+    display: inline-block;
+    text-align: center;
+}
+.block ul li a {
+    font-size: 23px;
+    text-shadow: 2px 2px 2px rgb(235, 232, 14);
+    display: inline-block;
+    display: flex;
+    color: rgb(244, 239, 239);
+    padding: 8px 16px;
+    text-decoration: none;
+    /* border: 2px solid black; */
+}
+.block{
+    text-align: right;
+}
+.block ul li::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background: rgb(235, 10, 10);
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.block ul li:hover::after{
+    width: 85%;
+}
+.welcome{
+    height: 100px;
+    width: 700px;
+    border: 5px solid white;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 260px;
+    margin-left: 350px;
+    padding-top: 30px;
+    text-shadow: 3px 3px 3px red;
+    background-color: transparent;
+}
